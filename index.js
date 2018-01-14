@@ -10,7 +10,7 @@ function whisper(string)
 
 function logShout(string)
 {
-  var string = "HELLO"
-  console.log(string)
+  console.log(${string})
+  log
 }
 
