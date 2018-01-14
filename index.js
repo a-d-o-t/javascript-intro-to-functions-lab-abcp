@@ -22,19 +22,14 @@ function logWhisper(string)
   console.log(string.toLowerCase())
 }
 
-//FIVE
+//FIVE, SIX, AND SEVEN
 function sayHiToGrandma(string)
 {
   if (string.toLowerCase() === string)
     {
   return "I can't hear you!";
     }
-}
-
-//SIX
-function sayHiToGrandma(string)
-{
-  if (string.toUpperCase() === string)
+  else if (string.toUpperCase() === string)
   {
     return "YES INDEED!";
   }
