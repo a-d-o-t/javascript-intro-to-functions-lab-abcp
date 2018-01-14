@@ -10,6 +10,5 @@ function whisper(string)
 
 function logShout(string)
 {
-  console.log
-  return 
+  console.log("HELLO")
 }
