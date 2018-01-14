@@ -33,5 +33,5 @@ function sayHiToGrandma(string)
   {
     return "YES INDEED!";
   }
-  elseeee
+  else if (string === "")
 }
